@@ -10,8 +10,7 @@
 * These locked Crypto Assets are then used to build the Consensus needed to secure the Network and ensure the Validity
   of each new Transaction to be persited in the Blockchain
 * Those who stake their coins in a PoS Blockchain are called "Validators"
-* For staking Assets and providing Services to the blockchain, Validators are rewarded with new Coins from these Network
-  - Blockchain
+* For staking Assets and providing Services to the blockchain, Validators are rewarded with new Coins from these Network - Blockchain
 * "Staking" is also known as Yield Farming or Liquidity Mining
 
 ## DAI Token
