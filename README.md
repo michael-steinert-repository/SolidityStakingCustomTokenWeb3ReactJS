@@ -1,14 +1,8 @@
 # Solidity Staking Custom Coin Web3.js ReactJS
 
-## Application Architecture
+## Application Business Rules
 
-### Application Interaction
-
-![Interaction Smart Contract Cloud Sotrage](https://user-images.githubusercontent.com/29623199/122016354-467e5a00-cdc1-11eb-92d7-69c0b322e9c2.JPG)
-
-### Application Business Rules
-
-![Blockchain Cloud Storage Architecture](https://user-images.githubusercontent.com/29623199/122016430-56963980-cdc1-11eb-94da-187ba21ff75e.JPG)
+![Smart Contract Overview](https://user-images.githubusercontent.com/29623199/122539231-aa09c100-d027-11eb-9f99-95cf4d2f4671.JPG)
 
 ## Staking
 
