@@ -9,8 +9,8 @@ module.exports = {
             network_id: "*" // Match any network id
         },
     },
-    /* Changed Directories of Smart Contract Assets */
-    /* Cause the App.js File need References of these Samrt Contract Assets */
+    /* Changed Directories of Smart Contract Assets so React can interact with these in Folder /src */
+    /* Cause the App.js File need References of these Smart Contract Assets */
     contracts_directory: './src/contracts/',
     contracts_build_directory: './src/abis/',
     compilers: {
