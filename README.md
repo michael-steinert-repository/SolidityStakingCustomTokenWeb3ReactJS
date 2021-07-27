@@ -49,3 +49,19 @@
 * ncu –u: This will update the package.json File as the latest Versions available in npm Repositories on Web
 * npm install: This will update the local node_modules Repository with the Versions present in package.json
 * npm install --package-lock-only: This will update the Versions present in package-lock.json
+
+## Solidity
+### Events
+* Events causes the Arguments to be stored in the Log of the Transaction
+* The Log of the Transaction exists as long as the Block in the Blockchain exists (in Theory forever)
+* Evetns log Changes into the Blockchain and make it true forever
+
+### Address
+* Every Account and Smart Contract has an Address
+* It is used to send and receive Ether from one Account to another
+
+### Mapping
+* Data Type used to store Associations that allow to get a Value for a corresponding Key
+
+### Require
+* Convenience Function that guarantees Vailidity of Conditions that cannot be detected before Execution
